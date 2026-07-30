@@ -1,22 +1,64 @@
 aid: '222'
 name: '222'
-description: '222 is a company surfaced as a portfolio company of general-catalyst and added to the API
-  Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: '222 is a consumer social app that matches compatible strangers for curated,
+  in-real-life group experiences — dinners, events, and pop-up hangouts — to help people
+  meet new people, discover their city, and deepen relationships. There are no profiles,
+  DMs, or swiping: members complete a personality/values survey that builds a curation
+  profile, then receive invites to nearby experiences where the app seats them with the
+  people they are most compatible with. Founded in Los Angeles and now operating in cities
+  including Los Angeles and New York, 222 is backed by General Catalyst and Y Combinator.
+  This profile is maintained in the API Evangelist network; 222 is a consumer mobile
+  application with no public developer API surface at this time.'
 url: https://raw.githubusercontent.com/api-evangelist/222/refs/heads/main/apis.yml
 x-type: company
 x-source: general-catalyst-portfolio
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://222.place/favicon.png
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
 - Consumer
+- Social
+- Community
+- Events
+- Mobile App
+- Friendship
+- Experiences
 apis: []
+common:
+- type: LLMsTxt
+  url: llms/222-llms.txt
+- type: DomainSecurity
+  url: security/222-domain-security.yml
+- type: Website
+  url: https://222.place/
+- type: TermsOfService
+  url: https://222.place/tos
+- type: PrivacyPolicy
+  url: https://222.place/privacy
+- type: SignUp
+  url: https://apps.apple.com/us/app/222-find-your-people/id6450612690
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
