@@ -1,0 +1,21 @@
+# 222
+
+> **222** is a platform that curates real-life social experiences to help you find your people, discover your city and deepen your existing relationships, disc. It’s not a dating app or a social network – **no profiles, no DMs, no endless scrolling or swiping** – just real, face-to-face connections through shared events.
+
+222 finds you people you'll get along with and sends you to places you'll love. Members fill out a fun compatibility quiz, and **222’s algorithm matches groups of compatible people** for each event. At these events (called "experiences"), you and a small group of strangers meet at a curated local venue (like a cool café, a dinner spot, or an art class) to hang out in a comfortable, judgment-free setting. Every participant is vetted, and experiences are in public group settings, so it's **safe, relaxed, and all about making friends**. In short, 222 offers an answer to *“How do I meet new people in my area?”* – by letting you simply say “yes” to an invite and show up for a new adventure.
+
+- **Curated Group Events:** 222 organizes real-life meetups (experiences) at local venues. Each event is hand-picked – for example, a game night, group dinner, or museum outing – to create a fun environment where talking to new people feels natural.
+- **Compatibility Matching:** Before attending, members answer a questionnaire about themselves (interests, personality, etc.). 222 uses these responses to **match you with people you’re likely to click with**. This way, when you arrive, you’re with a group of strangers that won’t feel so “strange” – you already share common ground.
+- **Not just dinners with strangers:** 222 has every type of experience including dinners, nightlife, yoga, hikes, run clubs, art classes, dance classes, culinary classes, game nights, & more.
+- **Deepen your relationships:** 222 helps you stay in touch after an experience by sending nudges to future experiences between members who enjoyed their initial experience together
+- **No Profiles or Swiping – *Just Say Yes*:** You **don’t need to browse profiles or send cold messages** to meet people. There’s no social feed or swiping like traditional apps&#8203;:contentReference[oaicite:47]{index=47}. Instead, 222 sends you personalized invites to experiences. All you do is RSVP “yes” and show up. It’s serendipity, delivered – or as we like to say, an opportunity to *choose chance* and make new friends.
+- **Real, Meaningful Connections:** The goal of every 222 experience is that you leave having truly connected with new people. Whether you’re new in town or just expanding your circle, 222 helps you **deepen your relationships** and meet potential new friends in a way that feels authentic. Many members find people they stay in touch with long after the event.
+- **Safe & Vetted:** Every member is vetted during sign-up, and experiences may have a host or organizer. Experiences take place in public locations with a group, ensuring a safe atmosphere. You can relax and be yourself, knowing everyone is there for the same reason – to meet new people, discover their cities, & deepen their relationships.
+
+## Resources
+
+- [222 Official Website](https://222.place) – **Sign up for 222** or log in to https://rsvp.222.place to start getting event invitations. (Homepage with an overview of how 222 works.)
+- [222 App Store Page](https://apps.apple.com/us/app/222/id6450612690) - **Read reviews of other members and download to become a member and start using 222 today
+- [“No Swiping, No Profiles” – Press Article](https://dot.la/222-friend-app-2658453941.html) – dot.LA feature story about 222’s mission to bring back serendipity in how Gen Z meets new people (overview of 222’s philosophy and approach).
+- ["Rise of Friendship Apps" - Press Article, Business Insider](https://www.businessinsider.com/phones-loneliness-friendship-apps-dating-fatigue-meetups-algorithms-2025-1) - News article on 222 and a testimonial about the experience
+- [Business Insider – 222 Expands IRL Social](https://www.businessinsider.com/startup-shifting-social-to-real-life-funding-raise-app-launch-2024-2) – News article on 222’s launch and $2.5M seed funding, with insights from the founders on how 222 curates events where strangers become friends.
